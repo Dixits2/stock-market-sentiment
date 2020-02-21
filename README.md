@@ -21,7 +21,7 @@ For the Sentiment Analysis, while I cannot recall which specific algorithm I had
 
 To combine it all, I aggregated all of the news headline data with each row containing the article title, sentiment of title, and date, and for the articles which were written on the same date, I took the average of the sentiments. I then cumulatively added the sentiment of each data to the overall sentiment of Apple and normalized this data; then, I normalized the market closing price of Apple over the same time span, and displayed both on the same graph.
 
-![Sentiment vs. Price](IMG_9827.png)
+![Sentiment vs. Price](IMG_9827.JPG)
 
 The data contains many visible consistencies between each other, such as the peak from 2011 to 2013 as well as the overall growth of the share price
 overtime.
